@@ -1,4 +1,5 @@
 # Span
+The Span algorithm: given a user-defined n, create a dataset of size n. Then, give the span of each index. The span is the total number of total previous adjacent values that are lower than the current value. The span algorithm is a common algorithm for stocks!
 
 ## User Inputs
 There are two implementations:
