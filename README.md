@@ -1,5 +1,6 @@
-Span
+# Span
 
+## User Inputs
 There are two implementations:
 1. Without the Stack
 2. With the Stack
@@ -10,4 +11,8 @@ Directly after, users will be asked to input an integer value greater or equal t
 
 The last step: the user is asked to input the high end of the range of data set values. This should be an integer greater than 0.
 
+## User Outputs
+The user will be listed all the pseudo-random dataset values, and each value's respective span.
+
+## Notes
 Please note that for both implementations, the 'worst' span is 1. 
